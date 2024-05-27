@@ -1,0 +1,30 @@
+h1 {
+  text-align : center;
+}
+.Greens {
+  color : green;
+}
+.Reds {
+  color : red;
+}
+.Purples {
+  color : purple;
+}
+.container {
+  background-color : RoyalBlue;
+  width : 100%;
+  margin : 0px 0px 0px -4px;
+  padding : 2px 9px 0px 0px;
+  display: grid;
+  place-items : center;
+}
+.boxdiv {
+  background-color : AliceBlue;
+  border : solid;
+  border-width : 1px;
+  border-color :CornFlowerBlue;
+  margin : 0px 2px 15px 2px;
+  padding : 0px 17px 5px 17px;
+  border-radius : 25px;
+  font-family : Verdana, Geneva, sans-serif;
+}
